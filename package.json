@@ -1,0 +1,24 @@
+{
+  "name": "react-dnd-examples-decorators-esbuild",
+  "version": "10.0.2",
+  "description": "Drag and Drop Example",
+  "license": "MIT",
+  "scripts": {
+    "build": "node build"
+  },
+  "dependencies": {
+    "@types/faker": "^4.1.7",
+    "@types/lodash": "^4.14.146",
+    "dnd-core": "^10.0.2",
+    "esbuild": "^0.15.11",
+    "faker": "^4.1.0",
+    "immutability-helper": "^3.0.0",
+    "react-dnd": "^10.0.2",
+    "react-dnd-html5-backend": "^10.0.2",
+    "react-frame-component": "^4.1.1",
+    "@types/react": "^16.9.13",
+    "@types/react-dom": "^16.9.4",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
+}
