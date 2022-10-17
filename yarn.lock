@@ -125,7 +125,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"dnd-core@npm:^10.0.2":
+"dnd-core@npm:10.0.2, dnd-core@npm:^10.0.2":
   version: 10.0.2
   resolution: "dnd-core@npm:10.0.2"
   dependencies:
@@ -427,21 +427,21 @@ __metadata:
     "@types/lodash": ^4.14.146
     "@types/react": ^16.9.13
     "@types/react-dom": ^16.9.4
-    dnd-core: ^10.0.2
+    dnd-core: 10.0.2
     esbuild: ^0.15.11
     faker: ^4.1.0
     immutability-helper: ^3.0.0
     lodash: 4.17.15
     prop-types: ^15.0.0
-    react: ^16.12.0
-    react-dnd: ^10.0.2
-    react-dnd-html5-backend: ^10.0.2
-    react-dom: ^16.12.0
+    react: 16.12.0
+    react-dnd: 10.0.2
+    react-dnd-html5-backend: 10.0.2
+    react-dom: 16.12.0
     react-frame-component: ^4.1.1
   languageName: unknown
   linkType: soft
 
-"react-dnd-html5-backend@npm:^10.0.2":
+"react-dnd-html5-backend@npm:10.0.2":
   version: 10.0.2
   resolution: "react-dnd-html5-backend@npm:10.0.2"
   dependencies:
@@ -450,7 +450,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-dnd@npm:^10.0.2":
+"react-dnd@npm:10.0.2":
   version: 10.0.2
   resolution: "react-dnd@npm:10.0.2"
   dependencies:
@@ -465,17 +465,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-dom@npm:^16.12.0":
-  version: 16.14.0
-  resolution: "react-dom@npm:16.14.0"
+"react-dom@npm:16.12.0":
+  version: 16.12.0
+  resolution: "react-dom@npm:16.12.0"
   dependencies:
     loose-envify: ^1.1.0
     object-assign: ^4.1.1
     prop-types: ^15.6.2
-    scheduler: ^0.19.1
+    scheduler: ^0.18.0
   peerDependencies:
-    react: ^16.14.0
-  checksum: 5a5c49da0f106b2655a69f96c622c347febcd10532db391c262b26aec225b235357d9da1834103457683482ab1b229af7a50f6927a6b70e53150275e31785544
+    react: ^16.0.0
+  checksum: e3bc9bf9ea4e28abfe83ec9200ebc45c86795ded9ad486c955d28c6df4ebde94359c841b8096209d13b017c0a3a751b6be34fd123105faad73467bfbbe8c84fb
   languageName: node
   linkType: hard
 
@@ -497,14 +497,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react@npm:^16.12.0":
-  version: 16.14.0
-  resolution: "react@npm:16.14.0"
+"react@npm:16.12.0":
+  version: 16.12.0
+  resolution: "react@npm:16.12.0"
   dependencies:
     loose-envify: ^1.1.0
     object-assign: ^4.1.1
     prop-types: ^15.6.2
-  checksum: 8484f3ecb13414526f2a7412190575fc134da785c02695eb92bb6028c930bfe1c238d7be2a125088fec663cc7cda0a3623373c46807cf2c281f49c34b79881ac
+  checksum: 6c5b5740c7521a41142d012d937db7520658a8317ea6ea9ae5d40ec1ef650596088e048ffebe673f9ddb640f876050d54720905b92250ce43cad0fd1103e7f4c
   languageName: node
   linkType: hard
 
@@ -524,12 +524,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"scheduler@npm:^0.19.1":
-  version: 0.19.1
-  resolution: "scheduler@npm:0.19.1"
+"scheduler@npm:^0.18.0":
+  version: 0.18.0
+  resolution: "scheduler@npm:0.18.0"
   dependencies:
     loose-envify: ^1.1.0
     object-assign: ^4.1.1
-  checksum: 73e185a59e2ff5aa3609f5b9cb97ddd376f89e1610579d29939d952411ca6eb7a24907a4ea4556569dacb931467a1a4a56d94fe809ef713aa76748642cd96a6c
+  checksum: b6e0b9e0086b200b114f1ef7f9fcac966ad5d84cd3b1867174be0549d3ff713d1fd22d5574cb024b7d3eadf3307f2afc1cb5bfbf28b0d3bc34b200183800fcae
   languageName: node
   linkType: hard
